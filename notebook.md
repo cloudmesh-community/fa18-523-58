@@ -1,3 +1,9 @@
+# Week-3 Fri 09/07/18 - 09/13/18:
+1. Joined the project in futuresystems
+2. Installed "jabref"
+3. Attended the discussion on 09/14/18
+
+
 # Week-2 Fri 08/31/18 - 09/06/18:
 1. Signed up for futuresystems account
 2. Plagiariasm Test Completed
