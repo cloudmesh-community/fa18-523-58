@@ -2,6 +2,7 @@
 1. Joined the project in futuresystems
 2. Installed "jabref"
 3. Attended the discussion on 09/14/18
+4. Created "Pull Requests" for the technology summaries I shall be working on 
 
 
 # Week-2 Fri 08/31/18 - 09/06/18:
