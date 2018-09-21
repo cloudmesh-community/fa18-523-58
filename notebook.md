@@ -1,3 +1,7 @@
+# Week-4 Fri 09/14/18 - 09/20/18:
+1. Attended the discussion on 09/21/2018
+
+
 # Week-3 Fri 09/07/18 - 09/13/18:
 1. Joined the project in futuresystems
 2. Installed "jabref"
