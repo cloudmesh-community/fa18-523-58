@@ -14,7 +14,7 @@
 # Practice
 1. Created README.yml and notebook.md files Week-2 Fri 08/31/18 - 09/06/18:
 2. Installed LaTeX
-3. Installed "jabref" on 09/14/18
+3. Installed jabref on 09/14/18
 4. Installed Virtual Box on 10/10/2018
 5. Installed Ubuntu 18.04.01 on VM
 
