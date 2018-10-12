@@ -11,3 +11,12 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/atmosphere.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-apex.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dc.js.md
+ paper:
+  title: "Caffe: A Deep Learning Framework"
+  url: TBD
+  group: fa18-523-57
+ project:
+  title: ""
+  url: TBD
+  group: fa18-523-57
+  code: TBD
