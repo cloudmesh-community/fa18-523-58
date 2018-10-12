@@ -20,4 +20,5 @@
 5. Installed Ubuntu 18.04.01 on VM 10/10/2018
 
 # Writing
-1. Week-3 Fri 09/07/18 - 09/13/18, Created "Pull Requests" for the technology summaries I shall be working on
+1. Week-3 Fri 09/07/18 - 09/13/18, Created Pull Requests for my technology summaries
+2. 10/10/2018 Started working on technology summaries
