@@ -10,13 +10,14 @@
 1. Attended the residential class discussion on 09/14/18
 2. Attended the residential class discussion on 09/21/2018
 3. Attended the online discussion on 10/11/2018
+4. Attended the residential class discussion on 10/12/2018
 
 # Practice
 1. Created README.yml and notebook.md files Week-2 Fri 08/31/18 - 09/06/18:
 2. Installed LaTeX
 3. Installed jabref on 09/14/18
 4. Installed Virtual Box on 10/10/2018
-5. Installed Ubuntu 18.04.01 on VM
+5. Installed Ubuntu 18.04.01 on VM 10/10/2018
 
 # Writing
 1. Week-3 Fri 09/07/18 - 09/13/18, Created "Pull Requests" for the technology summaries I shall be working on
