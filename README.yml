@@ -12,7 +12,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dc.js.md
 paper:
   - title: "Caffe: A Deep Learning Framework"
-    url: https://github.com/cloudmesh-community/fa18-523-57/tree/master/paper
+    url: https://github.com/cloudmesh-community/fa18-523-57/tree/master/paper/paper2
     group: fa18-523-57
 project:
   - title: Historical Storm Data Analysis with HBase
