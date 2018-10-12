@@ -11,7 +11,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-apex.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dc.js.md
 paper:
-  - title: Caffe: A Deep Learning Framework
+  - title: "Caffe: A Deep Learning Framework"
     url: https://github.com/cloudmesh-community/fa18-523-57/tree/master/paper
     group: fa18-523-57
 project:
