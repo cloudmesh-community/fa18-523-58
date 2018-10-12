@@ -5,3 +5,9 @@ owner:
   lastname: "Duvvuri"
   hid: "fa18-523-58"
   community: "e534"
+technologies:
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-cloud-sql.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dryad.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/atmosphere.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-apex.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dc.js.md
