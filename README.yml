@@ -4,6 +4,7 @@ owner:
   lastname: "Duvvuri"
   hid: "fa18-523-58"
   community: "e534"
+  semester: "fa18"
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-cloud-sql.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dryad.md
@@ -11,11 +12,13 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-apex.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dc.js.md
 paper:
-  - title: "Caffe: The Deep Learning Framework"
+  - keyword: Caffe
+    title: "Caffe: The Deep Learning Framework"
     url: https://github.com/cloudmesh-community/fa18-523-57/tree/master/paper/paper2
     group: fa18-523-57
 project:
-  - title: Historical Storm Data Analysis with HBase
+  - keyword: TBD
+    title: Historical Storm Data Analysis with HBase
     url: https://github.com/cloudmesh-community/fa18-523-57/tree/master/project-report
     group: fa18-523-57
     code: https://github.com/cloudmesh-community/fa18-523-57/tree/master/project-report/project-code
