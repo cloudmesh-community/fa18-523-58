@@ -5,6 +5,8 @@
 4. Week-2 Fri 08/31/18 - 09/06/18, Signed up for futuresystems account
 5. Week-2 Fri 08/31/18 - 09/06/18, Plagiariasm Test Completed
 6. Week-3 Fri 09/07/18 - 09/13/18, Joined the project in futuresystems
+7. Discussed the project on 10/11/2018 during online meeting hours
+8. 10/12/2018, Updated README.yml and added all the links to the project-report,project-code and paper
 
 # Meetings
 1. Attended the residential class discussion on 09/14/18
@@ -22,3 +24,4 @@
 # Writing
 1. Week-3 Fri 09/07/18 - 09/13/18, Created Pull Requests for my technology summaries
 2. 10/10/2018 Started working on technology summaries
+3. 10/12/2018 Pushed the the project snapshot and the paper summary for initial review
