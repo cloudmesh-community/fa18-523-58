@@ -7,12 +7,14 @@
 6. Week-3 Fri 09/07/18 - 09/13/18, Joined the project in futuresystems
 7. Discussed the project on 10/11/2018 during online meeting hours
 8. 10/12/2018, Updated README.yml and added all the links to the project-report,project-code and paper
+9. 10/19/2018, Updated README.yml with new links to the paper summary
 
 # Meetings
 1. Attended the residential class discussion on 09/14/18
 2. Attended the residential class discussion on 09/21/2018
 3. Attended the online discussion on 10/11/2018
 4. Attended the residential class discussion on 10/12/2018
+5. Attended the residential class discussion on 10/19/2018
 
 # Practice
 1. Created README.yml and notebook.md files Week-2 Fri 08/31/18 - 09/06/18:
