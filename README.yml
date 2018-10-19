@@ -14,7 +14,7 @@ technologies:
 paper:
   - keyword: Caffe
     title: "Caffe: The Deep Learning Framework"
-    url: https://github.com/cloudmesh-community/fa18-523-57/tree/master/paper/paper2
+    url: https://github.com/cloudmesh-community/fa18-523-58/tree/master/paper
     group: fa18-523-57
 project:
   - keyword: TBD
