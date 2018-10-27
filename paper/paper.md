@@ -8,7 +8,7 @@ author: "Pramod Duvvuri, Indiana University"
 
 :o: does not follow format
 
-:o: this is a technology summary, please contact Gregor
+:o: this is not yet a paper
 
 ## Abstract
 
