@@ -1,10 +1,10 @@
 # Caffe - The Deep Learning Framework :hand: fa18-523-58
 
----
-title: "Caffe - The Deep Learning Framework"
-date: "October 12, 2018"
-author: "Pramod Duvvuri, Indiana University"
----
+
+* title: "Caffe - The Deep Learning Framework"
+* date: "October 12, 2018"
+* author: "Pramod Duvvuri, Indiana University"
+
 
 :o: does not follow format
 
