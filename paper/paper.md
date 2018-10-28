@@ -1,11 +1,5 @@
 # Caffe - The Deep Learning Framework :hand: fa18-523-58
 
-
-* title: "Caffe - The Deep Learning Framework"
-* date: "October 12, 2018"
-* author: "Pramod Duvvuri, Indiana University"
-
-
 :o: does not follow format
 
 :o: this is not yet a paper
@@ -16,7 +10,7 @@ The amount of data generated has increased exponentially and so did the advancem
 
 ## Keywords
 
-fa18-523-58, Deep Learning, Python, C++
+fa18-523-58, Computer Vision, Deep Learning, Python, C++
 
 ## Introduction
 
