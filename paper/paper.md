@@ -1,18 +1,23 @@
 # Caffe - The Deep Learning Framework :hand: fa18-523-58
 
+| Pramod Duvvuri
+| vduvvuri@iu.edu
+| Indiana University
+| hid: fa18-523-58
+| github: [:hand:](https://github.com/cloudmesh-community/fa18-523-58/tree/master/paper)
+
 :o: does not follow format
 
 :o: this is not yet a paper
 
-## Abstract
+---
 
-The amount of data generated has increased exponentially and so did the advancement of computing power, both these have led us to the era of deep learning. This paper aims to summarize a deep learning framework knows as Caffe [@jia2014caffe] which was developed by a post-doc named Yangqing Jia at University of California, Berkeley in 2013. It is written in C++ and is known for it fast execution and it's Python interface allows it to be used by the vast majority of Python users. The framework has then been open-sourced, allowing many users to use, develop and contribute to improve the framework.
+Keywords: fa18-523-58,  C++, Computer Vision, Deep Learning, Python
 
-## Keywords
-
-fa18-523-58, Computer Vision, Deep Learning, Python, C++
+---
 
 ## Introduction
+The amount of data generated has increased exponentially and so did the advancement of computing power, both these have led us to the era of deep learning. This paper aims to summarize a deep learning framework knows as Caffe [@jia2014caffe] which was developed by a post-doc named Yangqing Jia at University of California, Berkeley in 2013. It is written in C++ and is known for it fast execution and it's Python interface allows it to be used by the vast majority of Python users. The framework has then been open-sourced, allowing many users to use, develop and contribute to improve the framework.
 
 The deep learning revolution has led to the need for state-of-the-art implementations of Artificial Neural Network (ANN) architectures. These architectures are too hard to code from scratch for most people who understood them conceptually and needed implementation to use them to solve specific problems. The first deep learning framework to gain popularity was Theano. Theano was developed at the University of Montreal in 2007. It was primarily used by the academic researchers at the university. Theano was built using Python which essentially made it slower for larger models, for production grade models speed is imperative. This meant there was need for a new popular and fast deep learning framework, especially in computer vision. Caffe was built using C++ and this made it very fast and ideally suitable for deployment in production. Caffe at the time of public release or open sourcing had the best implementation of Convolutional Neural Network (CNN) which are primarily used in solving computer vision problems. This made all the vision researchers adopt Caffe.
 
