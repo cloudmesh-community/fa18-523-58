@@ -8,6 +8,7 @@
 7. Discussed the project on 10/11/2018 during online meeting hours
 8. 10/12/2018, Updated README.yml and added all the links to the project-report,project-code and paper
 9. 10/19/2018, Updated README.yml with new links to the paper summary
+10.11/02/2018, Updated README.yml with link to my GitHub profile
 
 # Meetings
 1. Attended the residential class discussion on 09/14/18
@@ -15,10 +16,11 @@
 3. Attended the online discussion on 10/11/2018
 4. Attended the residential class discussion on 10/12/2018
 5. Attended the residential class discussion on 10/19/2018
+6. Attended the residential class discussion on 11/02/2018
 
 # Practice
 1. Created README.yml and notebook.md files Week-2 Fri 08/31/18 - 09/06/18:
-2. Installed LaTeX
+2. Installed LaTeX on my macOS
 3. Installed jabref on 09/14/18
 4. Installed Virtual Box on 10/10/2018
 5. Installed Ubuntu 18.04.01 on VM 10/10/2018
@@ -28,3 +30,4 @@
 2. 10/10/2018 Started working on technology summaries
 3. 10/12/2018 Pushed the the project snapshot and the paper summary into the repository for initial review
 4. 10/29/2018 Pushed all the six technology summaries  into the repository for initial review and Created Pull Request
+5. 11/01/2018 Started working on technology summaries that need improving after receiving feedback
