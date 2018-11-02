@@ -6,8 +6,6 @@
 | hid: fa18-523-58
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-58/tree/master/paper)
 
-:o: this is not yet a paper
-
 ---
 
 Keywords: fa18-523-58,  C++, Computer Vision, Deep Learning, Python
@@ -34,5 +32,4 @@ Caffe helped the data science community make valuable contributions to research 
 ## Acknowledgements
 
 The author would like to thank Professor Gregor Von Laszewski for providing this opportunity to work on this paper summary.
-
-## References
+The author would also the Associate Instructors of the class for their continuos help in resolving issues.
