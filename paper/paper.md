@@ -4,7 +4,7 @@
 | vduvvuri@iu.edu
 | Indiana University
 | hid: fa18-523-58
-| github: [:hand:](https://github.com/cloudmesh-community/fa18-523-58/tree/master/paper)
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-58/tree/master/paper)
 
 :o: this is not yet a paper
 
