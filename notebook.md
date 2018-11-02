@@ -9,7 +9,7 @@
 8. 10/12/2018, Updated README.yml and added all the links to the project-report,project-code and paper
 9. 10/19/2018, Updated README.yml with new links to the paper summary
 10. 11/02/2018, Updated README.yml with link to my GitHub profile
-11. 11/02/2018 Configured GPG on my local machine to sign all commits to GitHub
+11. 11/02/2018 Generated a GPG key on my local machine to sign all commits to GitHub
 
 # Meetings
 1. Attended the residential class discussion on 09/14/18
