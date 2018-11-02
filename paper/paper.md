@@ -32,4 +32,4 @@ Caffe helped the data science community make valuable contributions to research 
 ## Acknowledgements
 
 The author would like to thank Professor Gregor Von Laszewski for providing this opportunity to work on this paper summary.
-The author would also the Associate Instructors of the class for their continuos help in resolving issues.
+The author would also like to thank the Associate Instructors of the class for their continuos help in resolving issues.
