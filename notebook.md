@@ -8,7 +8,7 @@
 7. Discussed the project on 10/11/2018 during online meeting hours
 8. 10/12/2018, Updated README.yml and added all the links to the project-report,project-code and paper
 9. 10/19/2018, Updated README.yml with new links to the paper summary
-10.11/02/2018, Updated README.yml with link to my GitHub profile
+10. 11/02/2018, Updated README.yml with link to my GitHub profile
 
 # Meetings
 1. Attended the residential class discussion on 09/14/18
