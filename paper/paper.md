@@ -8,15 +8,16 @@
 
 :o: not yet ready many details missing
 
+
+## Abstract
+
+The amount of data generated has increased exponentially and so did the advancement of computing power, both these have led us to the era of deep learning. This paper aims to summarize a deep learning framework knows as Caffe [@jia2014caffe] which was developed by a post doctorate student Yangqing Jia at the University of California, Berkeley in 2013. It is written in C++ and is known for it fast execution and it's Python interface allows it to be used by the vast majority of Python users. The framework has then been open-sourced, allowing many users to use, develop and contribute to improve the framework.
+
 ---
 
 Keywords: fa18-523-58,  C++, Computer Vision, Deep Learning, Python
 
 ---
-
-## Abstract
-
-The amount of data generated has increased exponentially and so did the advancement of computing power, both these have led us to the era of deep learning. This paper aims to summarize a deep learning framework knows as Caffe [@jia2014caffe] which was developed by a post doctorate student Yangqing Jia at the University of California, Berkeley in 2013. It is written in C++ and is known for it fast execution and it's Python interface allows it to be used by the vast majority of Python users. The framework has then been open-sourced, allowing many users to use, develop and contribute to improve the framework.
 
 ## Introduction
 
