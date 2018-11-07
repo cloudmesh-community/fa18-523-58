@@ -6,6 +6,7 @@ owner:
   community: "e534"
   semester: "fa18"
   profile: "https://github.com/dvpramodkumar"
+  online: no
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-cloud-sql.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dryad.md
@@ -19,8 +20,8 @@ paper:
     url: https://github.com/cloudmesh-community/fa18-523-58/tree/master/paper
     group: fa18-523-57
 project:
-  - keyword: Analysis, Visualization, HBase
+  - keyword: Visualization, HBase
     title: Historical Storm Data Analysis with HBase
     url: https://github.com/cloudmesh-community/fa18-523-57/tree/master/project-report
     group: fa18-523-57
-    code: https://github.com/cloudmesh-community/fa18-523-57/tree/master/project-report/project-code
+    code: https://github.com/cloudmesh-community/fa18-523-57/tree/master/project-code
