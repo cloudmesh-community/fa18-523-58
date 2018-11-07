@@ -6,7 +6,6 @@ owner:
   community: "e534"
   semester: "fa18"
   profile: "https://github.com/dvpramodkumar"
-  online: no
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-cloud-sql.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dryad.md
