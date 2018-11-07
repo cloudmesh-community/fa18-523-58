@@ -31,5 +31,6 @@
 1. Week-3 Fri 09/07/18 - 09/13/18, Created Pull Requests for my technology summaries
 2. 10/10/2018 Started working on technology summaries
 3. 10/12/2018 Pushed the the project snapshot and the 2-page paper summary into the repository for initial review
-4. 10/29/2018 Pushed all the six technology summaries  into the repository for initial review and Created Pull Request
-5. 11/01/2018 Started working on technology summaries that need improving after receiving feedback
+4. 10/29/2018 Pushed all the six technology summaries into the repository for initial review and Created Pull Request
+5. 11/01/2018 Started working on technology summaries that need to be improved after receiving feedback
+5. 11/03/2018 Pushed all the six technology summaries into the repository for final review and Created Pull Request
