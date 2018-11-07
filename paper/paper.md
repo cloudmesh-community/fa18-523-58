@@ -25,6 +25,8 @@ The deep learning revolution has led to the need for state-of-the-art implementa
 
 ## Deep Learning
 
+TBD
+
 
 ## Architecture
 
@@ -32,11 +34,15 @@ The Caffe architecture mainly consists of layers or it had layer wise design all
 
 ## Applications
 
+TBD
+
 ## Use Cases
 
 The Caffe framework was primarily used by the computer vision research community. As mentioned above, it had the fastest and the best implementation of the CNN. Two use cases of the usage of Caffe to tackle a notorious computer vision problem shall be included in this section. This might help the reader to identify why it is so prominent among computer vision researchers.
 
 ## Challenges
+
+TBD
 
 ## Conclusion
 
