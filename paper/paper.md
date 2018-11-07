@@ -23,13 +23,20 @@ Keywords: fa18-523-58,  C++, Computer Vision, Deep Learning, Python
 
 The deep learning revolution has led to the need for state-of-the-art implementations of Artificial Neural Network (ANN) architectures. These architectures are too hard to code from scratch for most people who understood them conceptually and needed implementation to use them to solve specific problems. The first deep learning framework to gain popularity was Theano. Theano was developed at the University of Montreal in 2007. It was primarily used by the academic researchers at the university. Theano was built using Python which essentially made it slower for larger models, for production grade models speed is imperative. This meant there was need for a new popular and fast deep learning framework, especially in computer vision. Caffe was built using C++ and this made it very fast and ideally suitable for deployment in production. Caffe at the time of public release or open sourcing had the best implementation of Convolutional Neural Network (CNN) which are primarily used in solving computer vision problems. This made all the vision researchers adopt Caffe.
 
+## Deep Learning
+
+
 ## Architecture
 
 The Caffe architecture mainly consists of layers or it had layer wise design all designed and built using C++. This architecture at the time of Caffe creation was considered really good but since then newer deep learning framework's such as Tensorflow which was created by Google had a more flexible design. This flexible design is with respect to the various nodes in the ANN, since ANNs are primarily consisted of layers and each layer has multiple nodes. The ability to flexibly desing these nodes was very important to the researchers since this helped them achieve higher accuracy rates for model benchmarking.
 
+## Applications
+
 ## Use Cases
 
 The Caffe framework was primarily used by the computer vision research community. As mentioned above, it had the fastest and the best implementation of the CNN. Two use cases of the usage of Caffe to tackle a notorious computer vision problem shall be included in this section. This might help the reader to identify why it is so prominent among computer vision researchers.
+
+## Challenges
 
 ## Conclusion
 
