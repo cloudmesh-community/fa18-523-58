@@ -27,17 +27,23 @@ The deep learning revolution has led to the need for state-of-the-art implementa
 
 ## Deep Learning
 
+TBD
+
 ## Architecture
 
 The Caffe architecture mainly consists of layers or it had layer wise design all designed and built using C++. This architecture at the time of Caffe creation was considered really good but since then newer deep learning framework's such as Tensorflow which was created by Google had a more flexible design. This flexible design is with respect to the various nodes in the ANN, since ANNs are primarily consisted of layers and each layer has multiple nodes. The ability to flexibly desing these nodes was very important to the researchers since this helped them achieve higher accuracy rates for model benchmarking.
 
 ## Applications
 
+TBD
+
 ## Use Cases
 
 The Caffe framework was primarily used by the computer vision research community. As mentioned above, it had the fastest and the best implementation of the CNN. Two use cases of the usage of Caffe to tackle a notorious computer vision problem shall be included in this section. This might help the reader to identify why it is so prominent among computer vision researchers.
 
 ## Challenges
+
+TBD
 
 ## Conclusion
 
