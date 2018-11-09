@@ -18,6 +18,7 @@
 4. Attended the residential class discussion on 10/12/2018
 5. Attended the residential class discussion on 10/19/2018
 6. Attended the residential class discussion on 11/02/2018
+7. Attended the residential class discussion on 11/09/2018
 
 # Practice
 1. Created README.yml and notebook.md files Week-2 Fri 08/31/18 - 09/06/18:
@@ -25,11 +26,12 @@
 3. Installed jabref on 09/14/18
 4. Installed Virtual Box on 10/10/2018
 5. Installed Ubuntu 18.04.01 on VM 10/10/2018
-6. Installed Cloudera VM on Virtual Box 11/06/2018
+6. Installed Cloudera Quickstart VM on Virtual Box 11/06/2018
 
 # Writing
 1. Week-3 Fri 09/07/18 - 09/13/18, Created Pull Requests for my technology summaries
 2. 10/10/2018 Started working on technology summaries
 3. 10/12/2018 Pushed the the project snapshot and the 2-page paper summary into the repository for initial review
-4. 10/29/2018 Pushed all the six technology summaries  into the repository for initial review and Created Pull Request
+4. 10/29/2018 Pushed all the six technology summaries into the repository for initial review and Created Pull Request
 5. 11/01/2018 Started working on technology summaries that need improving after receiving feedback
+6. 11/03/2018 Pushed all the six technology summaries into the repository for final review and Created Pull Request

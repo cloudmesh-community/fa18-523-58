@@ -21,10 +21,11 @@ Keywords: fa18-523-58,  C++, Computer Vision, Deep Learning, Python
 
 ## Introduction
 
-The deep learning revolution has led to the need for state-of-the-art implementations of Artificial Neural Network (ANN) architectures. These architectures are too hard to code from scratch for most people who understood them conceptually and needed implementation to use them to solve specific problems. The first deep learning framework to gain popularity was Theano. Theano was developed at the University of Montreal in 2007. It was primarily used by the academic researchers at the university. Theano was built using Python which essentially made it slower for larger models, for production grade models speed is imperative. This meant there was need for a new popular and fast deep learning framework, especially in computer vision. Caffe was built using C++ and this made it very fast and ideally suitable for deployment in production. Caffe at the time of public release or open sourcing had the best implementation of Convolutional Neural Network (CNN) which are primarily used in solving computer vision problems. This made all the vision researchers adopt Caffe.
+The deep learning revolution has led to the need for state-of-the-art implementations of Artificial Neural Network (ANN) architectures. These architectures are too hard to code from scratch for most people even with a conceptual understanding. The first deep learning framework to gain popularity was *Theano* [reference neeeded]. Theano was developed at the University of Montreal in 2007. It was primarily used by the academic researchers at the university. Theano was built using Python which essentially made it slower for larger models, for production grade models speed is imperative. This meant there was need for a new popular and fast deep learning framework, especially in computer vision. Caffe was built using C++ and this made it very fast and ideally suitable for deployment in production. Caffe at the time of public release or open sourcing had the best implementation of Convolutional Neural Network (CNN) which are primarily used in solving computer vision problems. This made all the computer vision researchers adopt Caffe.
+
+## Computer Vision
 
 ## Deep Learning
-
 
 ## Architecture
 
