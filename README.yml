@@ -16,7 +16,7 @@ technologies:
 paper:
   - keyword: Caffe
     title: "Caffe: The Deep Learning Framework"
-    url: https://github.com/cloudmesh-community/fa18-523-58/tree/master/paper
+    url: https://github.com/cloudmesh-community/fa18-523-58/blob/master/paper/paper.md
     group: fa18-523-57
 project:
   - keyword: Visualization, HBase
