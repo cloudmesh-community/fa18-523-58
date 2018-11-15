@@ -19,8 +19,8 @@ paper:
     url: https://github.com/cloudmesh-community/fa18-523-58/blob/master/paper/paper.md
     group: fa18-523-57
 project:
-  - keyword: Visualization, HBase
-    title: Historical Storm Data Analysis with HBase
+  - keyword: Visualization, MongoDB, PySpark
+    title: Historical Storm Data Analysis with MongoDB
     url: https://github.com/cloudmesh-community/fa18-523-57/blob/master/project-report/report.md
     group: fa18-523-57
     code: https://github.com/cloudmesh-community/fa18-523-57/tree/master/project-code
