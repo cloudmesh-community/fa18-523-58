@@ -8,11 +8,11 @@
 
 :o: not yet ready many details missing
 
-:o: due to missing details review halted
+:o: due to missing details we could not provide further details for the review
 
 :o: merge abstract into introduction
 
-:o: this is too short of a paper to justify a conclusion
+:o: this is too short of a paper to justify a conclusion. YOu may want to do a Comparision or some other section header instead nad merge the content into other sections 
 
 ## Abstract
 
