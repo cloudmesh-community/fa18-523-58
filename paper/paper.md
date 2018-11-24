@@ -1,13 +1,18 @@
-# Caffe - The Deep Learning Framework :hand: fa18-523-58
+# Caffe - The Deep Learning Framework :wave: :exclamation: fa18-523-58
 
 | Pramod Duvvuri
 | vduvvuri@iu.edu
 | Indiana University
 | hid: fa18-523-58
-| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-58/tree/master/paper)
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-58/blob/master/paper/paper.md)
 
 :o: not yet ready many details missing
 
+:o: due to missing details we could not provide further details for the review
+
+:o: merge abstract into introduction
+
+:o: this is too short of a paper to justify a conclusion. YOu may want to do a Comparision or some other section header instead nad merge the content into other sections 
 
 ## Abstract
 
