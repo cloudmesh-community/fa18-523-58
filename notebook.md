@@ -28,6 +28,13 @@
 5. Installed Ubuntu 18.04.01 on VM 10/10/2018
 6. Installed Cloudera Quickstart VM on Virtual Box 11/06/2018
 
+# Project
+1. Signed up for Microsoft Azure Free 1-year Trial
+2. Created a Cosmos DB instance with Mongo API and created schema to store data
+3. Uploaded data from my local machine using Mongo Shell
+4. Installed Virutal Environment (virtualenv) and set up Python 3.7.1 in a separate folder for the Project
+5. Installed necessary packages in the Project folder and created a requirements text file
+
 # Writing
 1. Week-3 Fri 09/07/18 - 09/13/18, Created Pull Requests for my technology summaries
 2. 10/10/2018 Started working on technology summaries
