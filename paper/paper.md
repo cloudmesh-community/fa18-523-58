@@ -16,15 +16,15 @@ Keywords: hid fa18-523-58, [Artifical Neural Network] (#Artificial-Neural-Networ
 
 ---
 
-## Artifical Neural Network
+### Artifical Neural Network
 
 Neural Network is a machine learning algorithm which mimics the human nervous system. It consists of various nodes or artificial neurons that are interconnected and perform machine learning tasks. The advancements in computation and the introduction of Graphical Processing Units [@fa18-523-58-GPU] (GPUs) have made it feasible for us to run such sophisticated algorithms. Neural networks have performed exceptionally well on data in comparison to other industry standard machine learning algorithms, which is why they have been adopted by both the academia and the industry. They require far more training data or examples than other algorithms and also require a considerable amount of computational resources to run.
 
-## Computer Vision
+### Computer Vision
 
 Computer vision [@fa18-523-58-vision] primarily consists of computers trying to extract or understand meaningful information from images or videos from the real world. It is a vast field that consists of many domains under it. The main goal of computer vision is to build a system that can mimic the human vision or visualize an image and understand the context and semantics. The input for such a system can take multiple forms such as a single image, sequence of images or a video or multi-dimensional data. Some of the most common are object recognition, object tracking, image segmentation, image processing. The deep learning revolution has essentially revitalized the field of computer vision. Many problems which were considered impractical have been solved using deep learning. Artificial Intelligence [@fa18-523-58-AI] and Computer Vision have a lot of common topics. Quite a few of these problems such as pattern recognition in vision were solved with the help of artificial intelligence and this made computer vision an integral part of artificial intelligence.
 
-## Deep Learning
+### Deep Learning
 
 Deep learning is a set of techniques or architectures that use Deep Neural Networks (DNNs) to solve problems in various fields such as computer vision, signal processing [@fa18-523-58-Sig-Processing], natural language processing [@fa18-523-58-NLP]. These DNNs can be used to solve any type of machine learning problem. Deep Neural Networks are Neural networks with more than two layers. There are usually two main types of in machine learning:
 
