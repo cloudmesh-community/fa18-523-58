@@ -39,7 +39,7 @@ Any deep learning architecture at its core consists of a perceptron. A perceptro
 To use Caffe it is recommended to install a containerized image of it. This can be done using the help of Docker [@www-docker-tutorial]. The official Caffe image can be found on DockerHub and can be installed using the GUI. It can also be installed using the following command with docker already running on your local machine. In your docker terminal please paste the following command:
 
 ```bash
-docker run -ti bvlc/caffe:cpu caffe --version
+$ docker run -ti bvlc/caffe:cpu caffe --version
 ```
 ```
 caffe version 1.0.0
@@ -47,7 +47,7 @@ caffe version 1.0.0
 As indicated the latest version is 1.0.0, the above command is mostly used if the machine does not contain a GPU [@fa18-523-58-GPU]. If your machine contains a dedicated GPU then another command can be used to install Caffe using Docker. In your docker terminal please paste the following command:
 
 ```bash
-nvidia-docker run -ti bvlc/caffe:gpu caffe --version
+$ nvidia-docker run -ti bvlc/caffe:gpu caffe --version
 ```
 ```
 caffe version 1.0.0
@@ -55,8 +55,8 @@ caffe version 1.0.0
 With Caffe now installed it can be used with an Interactive Python notebook. The below command must be used to launch an IPython notebook in the docker terminal and then import caffe in the interactive Python (IPython) notebook [@www-jupyter-6] before we can write any code in Caffe.
 
 ```bash
-docker run -ti bvlc/caffe:cpu ipython
-import caffe
+$ docker run -ti bvlc/caffe:cpu ipython
+[1] import caffe
 ```
 
 
