@@ -1,4 +1,4 @@
-# Caffe - The Deep Learning Framework :wave: :exclamation: fa18-523-58
+# Caffe - The Deep Learning Framework :smiley: :exclamation: fa18-523-58
 
 | Pramod Duvvuri
 | vduvvuri@iu.edu
@@ -12,7 +12,7 @@ The amount of data generated has increased exponentially and so did the advancem
 
 ---
 
-Keywords: fa18-523-58, Artifical Neural Network, C++, Computer Vision, Deep Learning, Machine Learning, Python
+Keywords: hid fa18-523-58, [Artifical Neural Network] (#Artificial-Neural_Network), C++, [Computer Vision] (#Computer-Vision), [Deep Learning] (#Deep-Learning), Machine Learning, Python
 
 ---
 
@@ -38,7 +38,7 @@ Any deep learning architecture at its core consists of a perceptron. A perceptro
 
 To use Caffe it is recommended to install a containerized image of it. This can be done using the help of Docker [@www-docker-tutorial]. The official Caffe image can be found on DockerHub and can be installed using the GUI. It can also be installed using the following command with docker already running on your local machine. In your docker terminal please paste the following command:
 
-```
+```bash
 docker run -ti bvlc/caffe:cpu caffe --version
 ```
 ```
@@ -46,7 +46,7 @@ caffe version 1.0.0
 ```
 As indicated the latest version is 1.0.0, the above command is mostly used if the machine does not contain a GPU [@fa18-523-58-GPU]. If your machine contains a dedicated GPU then another command can be used to install Caffe using Docker. In your docker terminal please paste the following command:
 
-```
+```bash
 nvidia-docker run -ti bvlc/caffe:gpu caffe --version
 ```
 ```
@@ -54,7 +54,7 @@ caffe version 1.0.0
 ```
 With Caffe now installed it can be used with an Interactive Python notebook. The below command must be used to launch an IPython notebook in the docker terminal and then import caffe in the interactive Python (IPython) notebook [@www-jupyter-6] before we can write any code in Caffe.
 
-```
+```bash
 docker run -ti bvlc/caffe:cpu ipython
 import caffe
 ```
@@ -66,7 +66,7 @@ The Caffe architecture mainly consists of layers or it had a layer-wise design a
 
 ## Applications
 
-Some of industry grade production levels applications of Caffe are:
+Some of industry grade production levels applications [@hid-sp18-404-Evan] of Caffe are:
 
 * Facebook used Caffe to generate alternate texts who people who are visually challenged. All the photos uploaded to Facebook were run through a caffe model to generate such text. Facebook also used caffe to detect objectionable content. As the amount of data on social media increases so has the need for a protocol to regulate and report objectionable content risen.
 
