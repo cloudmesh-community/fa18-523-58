@@ -12,7 +12,7 @@ The amount of data generated has increased exponentially and so did the advancem
 
 ---
 
-Keywords: hid fa18-523-58, [Artifical Neural Network] (#Artificial-Neural_Network), C++, [Computer Vision] (#Computer-Vision), [Deep Learning] (#Deep-Learning), Machine Learning, Python
+Keywords: hid fa18-523-58, [Artifical Neural Network] (#Artificial-Neural-Network), C++, [Computer Vision] (#Computer-Vision), [Deep Learning] (#Deep-Learning), Machine Learning, Python
 
 ---
 
