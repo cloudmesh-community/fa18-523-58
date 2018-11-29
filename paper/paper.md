@@ -1,4 +1,4 @@
-# Caffe - The Deep Learning Framework :smiley: :exclamation: fa18-523-58
+# Caffe - A Deep Learning Framework :smiley: :exclamation: fa18-523-58
 
 | Pramod Duvvuri
 | vduvvuri@iu.edu
