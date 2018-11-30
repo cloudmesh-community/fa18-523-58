@@ -1,10 +1,12 @@
-# Caffe - The Deep Learning Framework :smiley: :exclamation: fa18-523-58
+# Caffe - A Deep Learning Framework :smiley: :exclamation: fa18-523-58
 
 | Pramod Duvvuri
 | vduvvuri@iu.edu
 | Indiana University
 | hid: fa18-523-58
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-58/blob/master/paper/paper.md)
+
+:o: does not provide a full example
 
 ## Introduction
 
