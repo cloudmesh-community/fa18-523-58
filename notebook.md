@@ -10,6 +10,7 @@
 9. 10/19/2018, Updated README.yml with new links to the paper summary
 10. 11/02/2018, Updated README.yml with link to my GitHub profile
 11. 11/02/2018 Generated a GPG key on my local machine to sign all commits to my repos on GitHub
+12. 11/29/2018 Attended online meeting to discuss about project deliverables
 
 # Meetings
 1. Attended the residential class discussion on 09/14/18
@@ -19,6 +20,7 @@
 5. Attended the residential class discussion on 10/19/2018
 6. Attended the residential class discussion on 11/02/2018
 7. Attended the residential class discussion on 11/09/2018
+8. Attended the online discussion on 11/29/2018
 
 # Practice
 1. Created README.yml and notebook.md files Week-2 Fri 08/31/18 - 09/06/18:
@@ -34,6 +36,7 @@
 3. Uploaded data from my local machine using Mongo Shell
 4. Installed Virutal Environment (virtualenv) and set up Python 3.7.1 in a separate folder for the Project
 5. Installed necessary packages in the Project folder and created a requirements text file
+6. 11/29/2018 Pushed finished code into the repository
 
 # Writing
 1. Week-3 Fri 09/07/18 - 09/13/18, Created Pull Requests for my technology summaries
@@ -42,3 +45,4 @@
 4. 10/29/2018 Pushed all the six technology summaries into the repository for initial review and Created Pull Request
 5. 11/01/2018 Started working on technology summaries that need to be improved after receiving feedback
 6. 11/03/2018 Pushed all the six technology summaries into the repository for final review and Created Pull Request
+7. 11/26/2018 Pushed 2-page paper into the repository for review
