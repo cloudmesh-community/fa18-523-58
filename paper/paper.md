@@ -64,6 +64,8 @@ $ docker run -ti bvlc/caffe:cpu ipython
 
 In this section, we try to solve the MNIST [@fa18-523-58-MNIST] classification problem using Caffe. We shall define files necessary to train a model that classifies hand written digits and recognizes them. Before we can run our model we must define the below files in the folder where Caffe is installed. The below code defines the different layers and the loss function in each of them.
 
+:o: Q: shoudl this be indented on the bracket level?
+
 ```
 ###########################################################################
 #    Title: MNIST Classification using Caffe
