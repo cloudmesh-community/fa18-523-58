@@ -1,3 +1,4 @@
+
 # Caffe - A Deep Learning Framework :smiley: :exclamation: fa18-523-58
 
 | Pramod Duvvuri
@@ -6,7 +7,6 @@
 | hid: fa18-523-58
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-58/blob/master/paper/paper.md)
 
-:o: does not provide a full example
 
 ## Introduction
 
@@ -60,7 +60,186 @@ With Caffe now installed it can be used with an Interactive Python notebook. The
 $ docker run -ti bvlc/caffe:cpu ipython
 [1] import caffe
 ```
+## Caffe Tutorial
 
+In this section, we try to solve the MNIST [@fa18-523-58-MNIST] classification problem using Caffe. We shall define files necessary to train a model that classifies hand written digits and recognizes them. Before we can run our model we must define the below files in the folder where Caffe is installed. The below code defines the different layers and the loss function in each of them.
+
+```
+###########################################################################
+#    Title: MNIST Classification using Caffe
+#    Author: GitHub
+#    Availability: https://github.com/BVLC/caffe/tree/master/examples/mnist
+#    Filename: lenet_train.prototxt
+###########################################################################
+name: "LeNet"
+layer {
+name: "data"
+type: "Input"
+top: "data"
+input_param { shape: { dim: 64 dim: 1 dim: 28 dim: 28 } }
+}
+layer {
+name: "conv1"
+type: "Convolution"
+bottom: "data"
+top: "conv1"
+param {
+lr_mult: 1
+}
+param {
+lr_mult: 2
+}
+convolution_param {
+num_output: 20
+kernel_size: 5
+stride: 1
+weight_filler {
+type: "xavier"
+}
+bias_filler {
+type: "constant"
+}
+}
+}
+layer {
+name: "pool1"
+type: "Pooling"
+bottom: "conv1"
+top: "pool1"
+pooling_param {
+pool: MAX
+kernel_size: 2
+stride: 2
+}
+}
+layer {
+name: "conv2"
+type: "Convolution"
+bottom: "pool1"
+top: "conv2"
+param {
+lr_mult: 1
+}
+param {
+lr_mult: 2
+}
+convolution_param {
+num_output: 50
+kernel_size: 5
+stride: 1
+weight_filler {
+type: "xavier"
+}
+bias_filler {
+type: "constant"
+}
+}
+}
+layer {
+name: "pool2"
+type: "Pooling"
+bottom: "conv2"
+top: "pool2"
+pooling_param {
+pool: MAX
+kernel_size: 2
+stride: 2
+}
+}
+layer {
+name: "ip1"
+type: "InnerProduct"
+bottom: "pool2"
+top: "ip1"
+param {
+lr_mult: 1
+}
+param {
+lr_mult: 2
+}
+inner_product_param {
+num_output: 500
+weight_filler {
+type: "xavier"
+}
+bias_filler {
+type: "constant"
+}
+}
+}
+layer {
+name: "relu1"
+type: "ReLU"
+bottom: "ip1"
+top: "ip1"
+}
+layer {
+name: "ip2"
+type: "InnerProduct"
+bottom: "ip1"
+top: "ip2"
+param {
+lr_mult: 1
+}
+param {
+lr_mult: 2
+}
+inner_product_param {
+num_output: 10
+weight_filler {
+type: "xavier"
+}
+bias_filler {
+type: "constant"
+}
+}
+}
+layer {
+name: "prob"
+type: "Softmax"
+bottom: "ip2"
+top: "prob"
+}
+```
+
+```
+###########################################################################
+#    Title: MNIST Classification using Caffe
+#    Author: GitHub
+#    Availability: https://github.com/BVLC/caffe/tree/master/examples/mnist
+#    Filename: lenet_solver.prototxt
+###########################################################################
+# The train/test net protocol buffer definition
+net: "examples/mnist/lenet_train_test.prototxt"
+# test_iter specifies how many forward passes the test should carry out.
+# In the case of MNIST, we have test batch size 100 and 100 test iterations,
+# covering the full 10,000 testing images.
+test_iter: 100
+# Carry out testing every 500 training iterations.
+test_interval: 500
+# The base learning rate, momentum and the weight decay of the network.
+base_lr: 0.01
+momentum: 0.9
+weight_decay: 0.0005
+# The learning rate policy
+lr_policy: "inv"
+gamma: 0.0001
+power: 0.75
+# Display every 100 iterations
+display: 100
+# The maximum number of iterations
+max_iter: 10000
+# snapshot intermediate results
+snapshot: 5000
+snapshot_prefix: "examples/mnist/lenet"
+# solver mode: CPU or GPU
+solver_mode: CPU
+```
+
+```bash
+cd $CAFFE_ROOT
+./examples/mnist/train_lenet.sh
+```
 
 ## Architecture
 
