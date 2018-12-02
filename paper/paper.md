@@ -205,12 +205,13 @@ top: "prob"
 ```
 
 ```
-###########################################################################
+###############################################################
 #    Title: MNIST Classification using Caffe
 #    Author: GitHub
-#    Availability: https://github.com/BVLC/caffe/tree/master/examples/mnist
+#    Availability: 
+#    * https://github.com/BVLC/caffe/tree/master/examples/mnist
 #    Filename: lenet_solver.prototxt
-###########################################################################
+###############################################################
 # The train/test net protocol buffer definition
 net: "examples/mnist/lenet_train_test.prototxt"
 # test_iter specifies how many forward passes the test should carry out.
@@ -263,5 +264,7 @@ Caffe was developed by a post-doctorate student and then open sourced in 2013, t
 
 
 ## Conclusion
+
+:o: do you realy need a conclusion in such a short paper? SHoudl that be merged into the Introduction?
 
 Caffe was mainly intended to support vision tasks and was not suitable for other tasks such as speech recognition, language modeling and time series data. This made its applications and also usability limited. But the lack of proper documentation and examples made it harder to adopt for the community. All modern deep learning frameworks were built to overcome the limitations of Caffe. They also borrowed its excellent CNN implementation. More people have since then moved to Tensorflow for academic research. Caffe has contributed a lot the computer vision and deep learning communities. Caffe helped these communities make valuable contributions to research with its fast execution times. Caffe2 [@fa18-523-58-Caffe2] was a project that was started at Facebook after the success of Caffe. Caffe2 was open sourced by Facebook in April 2017. By the end of March 2018, Caffe2 was merged with PyTorch by Facebook. These days the choice of a deep learning framework, when you have huge amounts of data, is either PyTorch or Tensorflow. Both Google and Facebook constantly keep updating these frameworks from the feedback they receive from the developer community to make it more developer friendly with the ability to visualize the computational graphs [@fa18-523-57-graph]. The goal now is to make deep learning more accessible to everybody and reduce the steep learning curves when it comes to these deep learning frameworks and caffe has contributed invaluably to achieve this goal.
