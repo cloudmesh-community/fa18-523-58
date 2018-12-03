@@ -36,7 +36,9 @@
 3. Uploaded data from my local machine using Mongo Shell
 4. Installed Virutal Environment (virtualenv) and set up Python 3.7.1 in a separate folder for the Project
 5. Installed necessary packages in the Project folder and created a requirements text file
+6. 11/28/2018 Added Setup Instructions in a README file under the project-code directory
 6. 11/29/2018 Pushed finished code into the repository
+7. 12/02/2018 Finished Project Report
 
 # Writing
 1. Week-3 Fri 09/07/18 - 09/13/18, Created Pull Requests for my technology summaries
@@ -46,3 +48,4 @@
 5. 11/01/2018 Started working on technology summaries that need to be improved after receiving feedback
 6. 11/03/2018 Pushed all the six technology summaries into the repository for final review and Created Pull Request
 7. 11/26/2018 Pushed 2-page paper into the repository for review
+8. 12/01/2018 Made modifications per feedback on the 2-page paper
