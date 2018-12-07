@@ -43,9 +43,8 @@
 5. Installed necessary packages in the Project folder and created a requirements text file
 6. 11/28/2018 Added Setup Instructions in a README file under the project-code directory
 6. 11/29/2018 Pushed finished code into the repository
-7. 12/02/2018 Finished Project Report
+7. 12/03/2018 Finished Project Report
 8. 12/07/2018 Received feedback from Prof. Fox regarding Project Report
-
 # Writing
 
 1. Week-3 Fri 09/07/18 - 09/13/18, Created Pull Requests for my technology summaries
