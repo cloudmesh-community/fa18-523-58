@@ -15,7 +15,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openstack-heat.md
 paper:
   - keyword: Caffe
-    title: "Caffe: The Deep Learning Framework"
+    title: "Caffe: A Deep Learning Framework"
     url: https://github.com/cloudmesh-community/fa18-523-58/blob/master/paper/paper.md
     group: fa18-523-57
 project:
