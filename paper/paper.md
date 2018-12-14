@@ -1,5 +1,5 @@
 
-# Caffe - A Deep Learning Framework :smiley: :exclamation: fa18-523-58
+# Caffe - A Deep Learning Framework
 
 | Pramod Duvvuri
 | vduvvuri@iu.edu
@@ -10,7 +10,7 @@
 
 ---
 
-Keywords: [Artifical Neural Network](#fa18-523-57-ANN), C++, [Computer Vision](#fa18-523-57-CV), [Deep Learning](#fa18-523-58-DL), Machine Learning, Python
+Keywords: Artifical Neural Network, C++, Computer Vision, Deep Learning, Machine Learning, Python
 
 ---
 
@@ -19,15 +19,15 @@ Keywords: [Artifical Neural Network](#fa18-523-57-ANN), C++, [Computer Vision](#
 The amount of data generated has increased exponentially and so did the advancement of computing power, both these have led us to the era of deep learning. This paper aims to summarize a deep learning framework known as *Caffe* [@hid-sp18-404-jia2014caffe] which was developed by a post-doctorate student *Yangqing Jia* at the University of California, Berkeley in 2013. It is written in C++ and is known for its fast execution and its Python interface allows it to be used by the vast majority of Python users. The framework has then been open-sourced, allowing many users to use, develop and contribute to improve the framework. The deep learning [@fa18-523-58-DL] revolution has led to the need for state-of-the-art implementations of Artificial Neural Network (ANN) architectures. These architectures are too hard to code from scratch for most people even with a conceptual understanding. The first deep learning framework to gain popularity was *Theano* [@www-theano]. Theano was developed at the University of Montreal in 2007. It was primarily used by academic researchers at the university. Theano was built using Python which essentially made it slower for larger models, for production-grade models speed is imperative. This meant there was a need for a new popular and fast deep learning framework, especially in computer vision. Caffe was built using C++ and this made it very fast and ideally suitable for deployment in production. Caffe [@www-caffe] at the time of public release or open sourcing had the best implementation of a Convolutional Neural Network [@fa18-523-58-cnn], which is primarily used in solving computer vision problems. This public release made all the computer vision researchers and other people in the computer vision community adopt Caffe.
 
 
-### <a name="fa18-523-57-ANN"> Artifical Neural Network </a>
+### Artifical Neural Network
 
 Neural Network is a machine learning algorithm which mimics the human nervous system. It consists of various nodes or artificial neurons that are interconnected and perform machine learning tasks. The advancements in computation and the introduction of Graphical Processing Units [@fa18-523-58-GPU] (GPUs) have made it feasible for us to run such sophisticated algorithms. Neural networks have performed exceptionally well on data in comparison to other industry standard machine learning algorithms, which is why they have been adopted by both the academia and the industry. They require far more training data or examples than other algorithms and also require a considerable amount of computational resources to run.
 
-### <a name="fa18-523-57-CV"> Computer Vision </a>
+### Computer Vision
 
 Computer vision [@fa18-523-58-vision] primarily consists of computers trying to extract or understand meaningful information from images or videos from the real world. It is a vast field that consists of many domains under it. The main goal of computer vision is to build a system that can mimic the human vision or visualize an image and understand the context and semantics. The input for such a system can take multiple forms such as a single image, sequence of images or a video or multi-dimensional data. Some of the most common are object recognition, object tracking, image segmentation, image processing. The deep learning revolution has essentially revitalized the field of computer vision. Many problems which were considered impractical have been solved using deep learning. Artificial Intelligence [@fa18-523-58-AI] and Computer Vision have a lot of common topics. Quite a few of these problems such as pattern recognition in vision were solved with the help of artificial intelligence and this made computer vision an integral part of artificial intelligence.
 
-### <a name="fa18-523-58-DL"> Deep Learning </a>
+### Deep Learning
 
 Deep learning is a set of techniques or architectures that use Deep Neural Networks (DNNs) to solve problems in various fields such as computer vision, signal processing [@fa18-523-58-Sig-Processing], natural language processing [@fa18-523-58-NLP]. These DNNs can be used to solve any type of machine learning problem. Deep Neural Networks are Neural networks with more than two layers. There are usually two main types of in machine learning:
 
